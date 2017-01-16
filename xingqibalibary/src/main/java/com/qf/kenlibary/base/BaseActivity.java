@@ -25,7 +25,7 @@ public abstract class BaseActivity extends AppCompatActivity{
 
     private FragmentManager fragmentManager;
     private  Fragment showFragment;
-
+    //ahaha
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
